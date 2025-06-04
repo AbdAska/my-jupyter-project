@@ -1,0 +1,11 @@
+﻿model,flux,heat-storage-density,nussult number,hydraulic diameter,melting-time,percentage change
+case-1,21.79,330.244,1.48,3.9048,3811,0
+case-2,302.9153,243.552,2.2311,4.8,314.2,-91.77
+case-3,177.02,,,,581.8,
+case-4,178.175,,,,583.2,
+case-5,160.8,,,,644.5,
+case-6,153.6,,,,677.8,
+case-7,,,,,,
+case-8,,,,,,
+case-9,,,,,,
+case-10,,,,,,

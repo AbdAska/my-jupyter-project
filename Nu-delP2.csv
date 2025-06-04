@@ -1,0 +1,4 @@
+﻿model,flux,pressure drop,nussult number,hydraulic diameter,melting-time
+base,8.1634,37.9,1.483,3.9048,2445
+circular,8.7736,25.08,2.2311,4.8,2266.3
+square,8.4,47.467,1.657,3.98,2375.7
